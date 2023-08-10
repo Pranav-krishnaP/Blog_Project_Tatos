@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "670641814883",
+    "project_id": "tatos-blog-project",
+    "storage_bucket": "tatos-blog-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670641814883:android:d1ce11d85b2181f86ca756",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670641814883-9cbh9ea8542d4fskpdnpfqek8rrietou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcdKfHrTKd4cGFFssrINr-or6KR_DZiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670641814883-9cbh9ea8542d4fskpdnpfqek8rrietou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670641814883-mlt6ucvla8kfqa9uicb0jv0k1p4mhqn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
